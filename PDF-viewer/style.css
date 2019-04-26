@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    background: rgb(248, 226, 31);
+    color: rgb(56, 56, 56);
+    padding: 1rem;
+
+}
+
+.btn {
+    background: rgba(51, 49, 45, 0.856);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.page-info {
+    margin-left: 1rem;
+}
+
+.error {
+    background: red;
+    color: white;
+    padding: 1rem;
+}
